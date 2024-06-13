@@ -13,9 +13,6 @@
 - SPA "with react router dom"
 - info page for products
 - state management with useReducer Hook and Context Api
-- RTL & LTR webSite
-- 2 Language Support
-- 2 Language Search
 - Local Storage State management
 - Favorite Page
 - Add , Delete , Delete All Favorite products
@@ -31,18 +28,18 @@
 
 ----
 
-### [Live Demo]() on Vercel
+### [Live Demo](https://foodstuffs-store.vercel.app/) on Vercel
 
 ----
 
 <p align="center">Screenshot</p>
 <p align="center">
-  <img src="./readme/example.png" width="800" height="auto" />
+  <img src="./readme/example.png" width="100%" height="auto" />
 </p>
 
 ----
 
 <p align="center">Lighthouse Speed</p>
 <p align="center">
-  <img src="./readme/lighthouse.png" width="400" height="auto" />
+  <img src="./readme/lighthouse.png" width="100%" height="auto" />
 </p>
